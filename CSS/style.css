@@ -1,0 +1,184 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 94px;
+    background-color: #562EFF;
+
+}
+
+header>nav>.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 40.42px;
+    height: 52px;
+
+}
+
+.logo>p {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.information {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+}
+
+.information>a {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    background-color: white;
+    width: 850px;
+    margin: 0 auto;
+    margin-top: 36px;
+    padding: 33px;
+}
+
+.container>.topplayers {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    color: #562EFF;
+}
+
+.item {
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: calc(33.33% - 20px);
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.item>p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.topplayers>div>img {
+    width: 56px;
+    height: 56px;
+}
+
+.hr {
+    width: 807px;
+    margin: 0 auto;
+    border: 1px solid #D1D1D1;
+    margin-top: 15px;
+}
+
+
+
+
+.blog>a {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+
+.topblogos {
+    margin-top: 30px;
+}
+
+.topblogo {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.blog {
+    display: flex;
+    gap: 10px;
+    width: calc(50% - 20px);
+    margin: 10px;
+    padding: 10px;
+    
+
+}
+
+
+.topblogo>div>img {
+    width: 177px;
+    height: 117px;
+}
+
+
+.course>a {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+.blog>a>p{
+    font-size: 10px !important;
+    color: #562EFF;
+    margin-top: 6px;
+}
+.blog>a>p>span{
+    color: #9F9F9F;
+}
+
+
+
+.latescourse {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.rate{
+    display: flex;
+    margin-left: 5px;
+    font-family:'Poppins', sans-serif ;
+    font-size: 14.69px;
+    color:#A2A2A2;
+}
+.time{
+    background-color: #FFE4E8;
+   padding: 5px;
+   margin-left: 19px;
+    color: #FF4A60;
+    font-family:'Poppins', sans-serif ;
+}
+.star{
+    display: flex;
+    align-items: center;
+}
+.course > span{
+    font-family: 'Poppins', sans-serif;
+}
+.course {
+    display: flex;
+    flex-direction: column;
+    
+    gap: 10px;
+    width: calc(33.33% - 20px);
+    margin: 10px;
+    padding: 10px;
+}
+
+.latescourses>div>img {
+    width: 177px;
+    height: 117px;
+}
+
+
+
+
+
+
+
+
+

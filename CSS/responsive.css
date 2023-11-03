@@ -1,0 +1,581 @@
+@media only screen and (max-width: 1100px){
+    header {
+        header {
+            padding: 10px;
+        }
+    
+        .container {
+            max-width: 100%;
+            padding: 20px;
+        }
+    
+        /* Make top players responsive for smaller screens */
+        .topplayers {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .item {
+            width: calc(50% - 20px); /* Two items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make top blogs responsive for smaller screens */
+        .topblogo {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .blog {
+            width: calc(50% - 20px); /* Two items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make latest courses responsive for smaller screens */
+        .latescourse {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .course {
+            width: calc(50% - 20px); /* Two items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        .blog > a {
+            font-size: 16px;
+        }
+    
+        .blog > a > p {
+            font-size: 12px;
+        }
+    
+        .rate {
+            font-size: 12px;
+        }
+    
+        .time {
+            margin-left: 10px;
+            font-size: 12px;
+        }
+    
+        .course > span {
+            font-size: 16px;
+        }
+    }
+    
+    }
+
+
+    @media only screen and (max-width: 1150px){
+        header {
+            padding: 10px;
+        }
+    
+        .container {
+            max-width: 100%;
+            padding: 20px;
+        }
+    
+        /* Make top players responsive for smaller screens */
+        .topplayers {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .item {
+            width: calc(33.33% - 20px); /* Three items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make top blogs responsive for smaller screens */
+        .topblogo {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .blog {
+            width: calc(50% - 20px); /* Two items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make latest courses responsive for smaller screens */
+        .latescourse {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .course {
+            width: calc(33.33% - 20px); /* Three items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        .blog > a {
+            font-size: 16px;
+        }
+    
+        .blog > a > p {
+            font-size: 12px;
+        }
+    
+        .rate {
+            font-size: 12px;
+        }
+    
+        .time {
+            margin-left: 10px;
+            font-size: 12px;
+        }
+    
+        .course > span {
+            font-size: 16px;
+        }
+    }
+    
+    @media only screen and (max-width: 1000px){
+        header {
+            padding: 10px;
+        }
+    
+        .container {
+            max-width: 100%;
+            padding: 20px;
+        }
+    
+        /* Make top players responsive for smaller screens */
+        .topplayers {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .item {
+            width: calc(33.33% - 20px); /* Three items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make top blogs responsive for smaller screens */
+        .topblogo {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .blog {
+            width: calc(50% - 20px); /* Two items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make latest courses responsive for smaller screens */
+        .latescourse {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .course {
+            width: calc(33.33% - 20px); /* Three items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        .blog > a {
+            font-size: 16px;
+        }
+    
+        .blog > a > p {
+            font-size: 12px;
+        }
+    
+        .rate {
+            font-size: 12px;
+        }
+    
+        .time {
+            margin-left: 10px;
+            font-size: 12px;
+        }
+    
+        .course > span {
+            font-size: 16px;
+        }
+    }
+
+
+    @media only screen and (max-width: 900px){
+        header {
+            padding: 10px;
+        }
+    
+        .container {
+            max-width: 100%;
+            padding: 20px;
+        }
+    
+        /* Make top players responsive for smaller screens */
+        .topplayers {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .item {
+            width: calc(50% - 20px); /* Two items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make top blogs responsive for smaller screens */
+        .topblogo {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .blog {
+            width: calc(50% - 20px); /* Two items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make latest courses responsive for smaller screens */
+        .latescourse {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .course {
+            width: calc(50% - 20px); /* Two items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        .blog > a {
+            font-size: 16px;
+        }
+    
+        .blog > a > p {
+            font-size: 12px;
+        }
+    
+        .rate {
+            font-size: 12px;
+        }
+    
+        .time {
+            margin-left: 10px;
+            font-size: 12px;
+        }
+    
+        .course > span {
+            font-size: 16px;
+        }
+    }
+
+
+
+    @media only screen and (max-width: 800px){
+        header {
+            padding: 10px;
+        }
+    
+        .container {
+            max-width: 100%;
+            padding: 20px;
+        }
+    
+        /* Make top players responsive for smaller screens */
+        .topplayers {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .item {
+            width: calc(50% - 20px); /* Two items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make top blogs responsive for smaller screens */
+        .topblogo {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .blog {
+            width: calc(50% - 20px); /* Two items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make latest courses responsive for smaller screens */
+        .latescourse {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .course {
+            width: calc(50% - 20px); /* Two items per row on smaller screens */
+            margin: 10px;
+        }
+    
+        .blog > a {
+            font-size: 16px;
+        }
+    
+        .blog > a > p {
+            font-size: 12px;
+        }
+    
+        .rate {
+            font-size: 12px;
+        }
+    
+        .time {
+            margin-left: 10px;
+            font-size: 12px;
+        }
+    
+        .course > span {
+            font-size: 16px;
+        }
+    }
+
+
+
+    @media only screen and (max-width: 700px){
+        header {
+            padding: 10px;
+        }
+    
+        .container {
+            max-width: 100%;
+            padding: 20px;
+        }
+    
+        /* Make top players responsive for smaller screens */
+        .topplayers {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .item {
+            width: calc(100% - 20px); /* One item per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make top blogs responsive for smaller screens */
+        .topblogo {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .blog {
+            width: calc(100% - 20px); /* One item per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make latest courses responsive for smaller screens */
+        .latescourse {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .course {
+            width: calc(100% - 20px); /* One item per row on smaller screens */
+            margin: 10px;
+        }
+    
+        .blog > a {
+            font-size: 16px;
+        }
+    
+        .blog > a > p {
+            font-size: 12px;
+        }
+    
+        .rate {
+            font-size: 12px;
+        }
+    
+        .time {
+            margin-left: 10px;
+            font-size: 12px;
+        }
+    
+        .course > span {
+            font-size: 16px;
+        }
+    }
+
+
+    @media only screen and (max-width: 550px){
+        header {
+            padding: 10px;
+            font-size: 15px;
+        }
+    
+        .container {
+            max-width: 100%;
+            padding: 20px;
+        }
+    
+        /* Make top players responsive for smaller screens */
+        .topplayers {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .item {
+            width: calc(100% - 20px); /* One item per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make top blogs responsive for smaller screens */
+        .topblogo {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .blog {
+            width: calc(100% - 20px); /* One item per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make latest courses responsive for smaller screens */
+        .latescourse {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .course {
+            width: calc(100% - 20px); /* One item per row on smaller screens */
+            margin: 10px;
+        }
+    
+        .blog > a {
+            font-size: 16px;
+        }
+    
+        .blog > a > p {
+            font-size: 12px;
+        }
+    
+        .rate {
+            font-size: 12px;
+        }
+    
+        .time {
+            margin-left: 10px;
+            font-size: 12px;
+        }
+    
+        .course > span {
+            font-size: 16px;
+        }
+
+
+    }
+
+    @media only screen and (max-width:500px){
+        header {
+            padding: 10px;  
+            font-size: 15px;
+        }
+    
+        .container {
+            max-width: 100%;
+            padding: 20px;
+        }
+    
+        /* Make top players responsive for smaller screens */
+        .topplayers {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .item {
+            width: calc(100% - 20px); /* One item per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make top blogs responsive for smaller screens */
+        .topblogo {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .blog {
+            width: calc(100% - 20px); /* One item per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make latest courses responsive for smaller screens */
+        .latescourse {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .course {
+            width: calc(100% - 20px); /* One item per row on smaller screens */
+            margin: 10px;
+        }
+    
+        .blog > a {
+            font-size: 16px;
+        }
+    
+        .blog > a > p {
+            font-size: 12px;
+        }
+    
+        .rate {
+            font-size: 12px;
+        }
+    
+        .time {
+            margin-left: 10px;
+            font-size: 12px;
+        }
+    
+        .course > span {
+            font-size: 16px;
+        }
+    }
+
+
+
+    @media only screen and (max-width:450px){
+        header {
+            padding: 5px;
+            font-size: 15px;
+        }
+
+        .information {
+            
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+    
+        .container {
+            max-width: 100%;
+            padding: 20px;
+        }
+    
+        /* Make top players responsive for smaller screens */
+        .topplayers {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .item {
+            width: calc(100% - 20px); /* One item per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make top blogs responsive for smaller screens */
+        .topblogo {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .blog {
+            width: calc(100% - 20px); /* One item per row on smaller screens */
+            margin: 10px;
+        }
+    
+        /* Make latest courses responsive for smaller screens */
+        .latescourse {
+            justify-content: center; /* Center items on smaller screens */
+        }
+    
+        .course {
+            width: calc(100% - 20px); /* One item per row on smaller screens */
+            margin: 10px;
+        }
+    
+        .blog > a {
+            font-size: 16px;
+        }
+    
+        .blog > a > p {
+            font-size: 12px;
+        }
+    
+        .rate {
+            font-size: 12px;
+        }
+    
+        .time {
+            margin-left: 10px;
+            font-size: 12px;
+        }
+    
+        .course > span {
+            font-size: 16px;
+        }
+    }
